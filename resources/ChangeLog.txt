@@ -1,0 +1,5 @@
+2010-05-01  Andreas Schlegel
+      * version 0.1.1
+      * first release of the extrawindow library for processing
+      * extrawindow lets you add multiple windows to a single processing sketch
+           
