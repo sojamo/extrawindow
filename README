@@ -1,5 +1,4 @@
-extrawindow is a library for the open source programming language and environment processing (http://www.processing.org).
-This library allows to  create and access multiple windows in one sketch. Each ExtraWindow extends PApplet and can be treated as such. 
+extrawindow is a library for the open source programming language and environment processing (http://www.processing.org) and enables you to create and access multiple windows in one sketch. Each ExtraWindow extends PApplet and can be treated as such.
 
 This library can be downloaded from http://www.sojamo.de/libraries/extrawindow
 
